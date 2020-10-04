@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $red 
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by dheeraj now start"
+echo " This Script is written by ShuBhamg0sain now start"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
@@ -27,10 +27,11 @@ apt install python -y
 apt install python2 -y
 apt install php -y
 apt install openssh -y
-git clone https://github.com/techchipnet/CamPhish
-cd CamPhish
+git clone https://github.com/ShuBhamg0sain/camwebb
+cd camwebb
+cd .shubham
 ls
-bash camphish.sh
+bash camweb.sh
 echo  "#####################################"
 echo   " u can now hack anything      "               
  echo   " completing wait 3 2 1 "                                                                    
@@ -39,7 +40,7 @@ echo   "####################################"
 
 echo  "#####################################"
 echo   "anynomous "               
- echo   " join us on facebook Dhee Techno Hacker "                                                                   echo   "####################################"
+ echo   " join us on Facebook https://m.facebook.com/shubham.gosain.980 "                                                                   echo   "####################################"
 
 
 echo " "                                                                   
@@ -57,7 +58,7 @@ echo   " processing wait......
 "                                                                    
 echo   "####################################"
 
-echo " If You Connected To Internet Then u downloaded success fully subscribe us Dhee Techno Hacker channel ...we are learners dont underestimate us "
+echo " If You Connected To Internet Then u downloaded success fully follow on Instagram https://www.instagram.com/shubham_g0sain/?hl=en  "
 
 echo " ??? now rock and hack ??? "
 
