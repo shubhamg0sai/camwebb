@@ -278,6 +278,5 @@ checkfound
 
 banner
 dependencies
-camweb
-camwebb
+camphish
 
