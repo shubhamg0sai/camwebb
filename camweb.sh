@@ -278,5 +278,6 @@ checkfound
 
 banner
 dependencies
-camweb.sh
+camweb
+camwebb
 
