@@ -3,23 +3,23 @@
 ## screenshot
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/camwebb/master/.shubham/banners/Screenshot_20201005_064918.jpg)
 
-FIND...ME.
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain/)👈
 
-What app: https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q
+installation
+pkg update
 
-     OR
-https://chat.whatsapp.com/JyqQKyXuw3f43Ll90pHSMO
+pkg upgrade
 
-    OR
-https://chat.whatsapp.com/L4iSBfleMKqKd1G10f7IIc
+pkg install git
 
-Instagram : https://www.instagram.com/shubham_g0sain/?hl=en
+pkg install python2
 
-Github. : https://github.com/ShuBhamg0sain
+git clone https://github.com/ShuBhamg0sain/camwebb
 
-Facebook : https://m.facebook.com/shubham.gosain.980
+ls
 
-Facebook group : https://facebook.com/groups/226519011789922/?ref=group_browse
+cd camwebb
 
-Telegram : https://t.me/ShuBham_g0sain
+ls
 
+bash Webcamera.sh
