@@ -3,7 +3,7 @@
 ## screenshot
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/camwebb/master/.shubham/banners/Screenshot_20201005_064918.jpg)
 
-👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain/)👈
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamgosainn/)👈
 
 installation
 pkg update
