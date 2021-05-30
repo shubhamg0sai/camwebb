@@ -20,15 +20,10 @@ echo "007"
 
 echo "."
 
-apt-get update -y                      #update in progress
-apt install python -y           #installation......
+apt-get update -y                      #update in progress           #installation......
 apt instll git -y
-apt install python -y
-apt install python2 -y
 apt install php -y
 apt install openssh -y
-git clone https://github.com/ShuBhamg0sain/camwebb
-cd camwebb
 cd .shubham
 ls
 bash camweb.sh
